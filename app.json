@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-project-app",
-    "slug": "my-project-app",
+    "name": "breadshopapp",
+    "slug": "breadshopapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
